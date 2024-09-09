@@ -19,13 +19,25 @@ Make sure you have the following installed on your machine:
 1. Open your terminal or command prompt.
 2. Run the following commands:
     ### Clone the repository
+    ```bash
     git clone https://github.com/EkshteinChana/devops_mbj_backend.git
-
+    ```
+    
     ### Navigate to the project directory
+    ```bash
     cd devops_mbj_backend
+    ```
 
     ### Install dependencies
+    ```bash
     npm install
+    ```
 
     ### Start the backend server
+    ```bash
     npm start
+    ```
+    
+3. The backend app should now be running on [http://localhost:5000](http://localhost:5000).
+
+
